@@ -1,0 +1,15 @@
+v0.1.2
+	SOUNDS
+	- Increased the volume of various walking sounds by 5dB
+	ITEMS_GAME
+	- Decreased the spread of the tommygun from 0.01 to 0.005
+	MODELS
+	- Created a custom .qc hitbox file for merc
+		- This isn't compiled yet! If you know how to do this please hit me up, my Discord tag is fossil#7086
+
+v0.1.1
+	ITEMS_GAME
+	- Reduced the tommygun's damage from 12 to 10
+	- Reduced the pistol's damage from 12 to 8
+	- Increased the pistol's clip size from 15 to 30
+	- Added cosmetics created in the newest update back
